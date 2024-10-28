@@ -6,3 +6,11 @@ In this demo, a red square should appear on the main page. However, a discrepanc
 ## Reproduction
 
 In `panda-0.41` and `panda-0.42` separately, run `bun dev` and navigate to the local URLs. Notice that the red square generates in `panda-0.41`, but not in `panda-0.42`.
+
+0.41:
+
+<img src="./assets/img/0.41.png" alt="0.41 demo" width="500" />
+
+0.42:
+
+<img src="./assets/img/0.42.png" alt="0.42 demo" width="500" />
