@@ -4,7 +4,7 @@
 		"dev": "next dev --turbo",
 		"build": "next build",
 		"start": "next start",
-			"prepare": "panda codegen"
+		"prepare": "panda codegen"
 	},
 	"trustedDependencies": ["@biomejs/biome"],
 	"devDependencies": {

@@ -13,7 +13,7 @@ import {
 
 const HomePage = () => (
 	<Container p={6}>
-	  Square with red.500 background color:
+		Square with red.500 background color:
 		<Square size={20} bgColor="red.500" />
 	</Container>
 );

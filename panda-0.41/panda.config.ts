@@ -8,15 +8,15 @@ const pandaConfig = defineConfig({
 	include: ["src/**/*.{ts,tsx}"],
 	outdir: "src/generated/panda",
 	staticCss: {
-css: [
-         {
-           properties: {
-             color: ["*"],
-             backgroundColor: ["*"],
-           },
-         },
-       ],
-     },
+		css: [
+			{
+				properties: {
+					color: ["*"],
+					backgroundColor: ["*"],
+				},
+			},
+		],
+	},
 });
 
 export default pandaConfig;
